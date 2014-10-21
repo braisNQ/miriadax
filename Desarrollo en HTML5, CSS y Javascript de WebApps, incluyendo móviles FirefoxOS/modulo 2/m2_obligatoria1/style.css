@@ -1,0 +1,63 @@
+
+@font-face {
+	font-family: FiraMono;
+	src: url(FiraMono-Regular.woff) format("woff"),
+	url(FiraMono-Regular.eot) format("embedded-opentype");
+}
+p {
+	font-family: FiraMono, serif;
+}
+.caja {
+	width: 600px;
+}
+nav {
+	width: 200px;
+}
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCC;
+}
+li {
+	display: inline;
+}
+a {
+	color: #000;
+	text-decoration: none;
+	font-size: 0.9em;
+	display: block;
+	padding: 6px;
+	float: left;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	background-color: #EAEAEA;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #CCC;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCC;
+}
+a:hover {
+	color: #FFF;
+	background-color: #666;
+}
+.clear {
+	clear: both;
+}
+.hora {
+	color: red;
+	font-size: 0.6em;
+}
+.indicador {
+	background: red;
+	color: white;
+}
+.subtitulo{
+	font-size: 0.7em;
+	font-weight: bold;
+}
