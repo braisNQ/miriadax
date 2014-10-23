@@ -1,4 +1,4 @@
 miriadax
 ========
 
-Recopilatorio de cursos MOC realizados en esta plataforma
+Recopilatorio de cursos MOOC realizados en esta plataforma
